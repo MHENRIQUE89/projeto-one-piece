@@ -1,5 +1,6 @@
 # projeto-one-piece
 Este projeto consiste em uma página de apresentação temática do anime One Piece, desenvolvida com foco em JavaScript moderno, manipulação de DOM e CSS responsivo. O projeto foi elaborado como parte da mentoria Dev em Dobro, sob a orientação dos irmãos Roberto e Ricardo Dias.
+O foco principal desta aplicação é proporcionar uma experiência interativa ao usuário. Ao selecionar diferentes personagens, o site atualiza dinamicamente as informações, a imagem e o tema visual, demonstrando o domínio sobre a lógica de estados e a manipulação eficiente de elementos no front-end.
 
 ### 🔗 Link do projeto => https://mhenrique89.github.io/projeto-one-piece/
 
